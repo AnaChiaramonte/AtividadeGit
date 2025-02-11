@@ -2,6 +2,7 @@
 {
     public class bibliotecaTeste
     {
+        public Guid LivroId { get; set; }
         public string teste()
         {
             return "Teste";
